@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[method a]]>
+    </line>
+    <line>
+      <![CDATA[method b]]>
+    </line>
+    <line>
+      <![CDATA[method c]]>
+    </line>
+    <line>
+      <![CDATA[method d]]>
+    </line>
+    <line>
+      <![CDATA[method e]]>
+    </line>
+    <line>
+      <![CDATA[method g]]>
+    </line>
+    <line>
+      <![CDATA[method h]]>
+    </line>
+    <line>
+      <![CDATA[method f]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-05-26T10:49:54 IST" name="Default suite" finished-at="2023-05-26T10:49:54 IST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T10:49:54 IST" name="Default test" finished-at="2023-05-26T10:49:54 IST" duration-ms="100">
+      <class name="testngflags.Flag4">
+        <test-method signature="a()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="a" finished-at="2023-05-26T10:49:54 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method a]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="b()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="b" finished-at="2023-05-26T10:49:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method b]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="c()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="c" finished-at="2023-05-26T10:49:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method c]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- c -->
+        <test-method signature="d()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="d" finished-at="2023-05-26T10:49:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method d]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method signature="e()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="e" finished-at="2023-05-26T10:49:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method e]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- e -->
+        <test-method signature="g()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="g" finished-at="2023-05-26T10:49:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method g]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method signature="h()[pri:0, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="h" finished-at="2023-05-26T10:49:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method h]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method signature="f()[pri:1, instance:testngflags.Flag4@62230c58]" started-at="2023-05-26T10:49:54 IST" name="f" finished-at="2023-05-26T10:49:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[method f]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testngflags.Flag4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
